@@ -114,7 +114,7 @@ curl -X POST 'http://127.0.0.1:8000/v1/premium/buy' \
 - `Unauthorized` в API — проверьте `API_KEY` и заголовок `Authorization`.
 
 ## Контактная информация:
-- теллеграм: @sptsupport
+- теллеграм: @sptmanager
 
 ---
 
@@ -234,4 +234,4 @@ curl -X POST 'http://127.0.0.1:8000/v1/premium/buy' \
   - `Unauthorized` in API - check `API_KEY` and `Authorization` header.
 
 ## Contact information:
-- telegram: @sptsupport
+- telegram: @sptmanager
