@@ -113,6 +113,9 @@ curl -X POST 'http://127.0.0.1:8000/v1/premium/buy' \
 - Ошибки БД — проверьте `DB_*` и доступ к PostgreSQL.
 - `Unauthorized` в API — проверьте `API_KEY` и заголовок `Authorization`.
 
+## Контактная информация:
+- теллеграм: @sptsupport
+
 ---
 
 # ByStars (English)
