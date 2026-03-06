@@ -230,5 +230,5 @@ curl -X POST 'http://127.0.0.1:8000/v1/premium/buy' \
 - DB errors - verify `DB_*` values and PostgreSQL access.
   - `Unauthorized` in API - check `API_KEY` and `Authorization` header.
 
-## contact:
-telegram: @sptsupport
+## Contact information:
+  telegram: @sptsupport
