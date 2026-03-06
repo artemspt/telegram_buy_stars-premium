@@ -1,0 +1,14 @@
+aiogram==3.25.0
+asyncpg==0.31.0
+httpx==0.28.1
+python-dotenv==1.2.1
+fastapi>=0.116.1
+uvicorn>=0.35.0
+pydantic>=2.11.7
+pydantic-settings>=2.10.1
+structlog>=25.4.0
+cryptography>=45.0.6
+tonutils
+pytoniq-core>=0.1.41
+zstandard>=0.23.0
+brotli>=1.1.0
