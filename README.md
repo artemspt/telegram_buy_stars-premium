@@ -32,7 +32,7 @@
 ## Установка
 1. Клонировать репозиторий:
 ```bash
-git clone <>
+git clone <https://github.com/artemspt/telegram_buy_stars-premium>
 cd ByStars
 ```
 
@@ -112,6 +112,3 @@ curl -X POST 'http://127.0.0.1:8000/v1/premium/buy' \
 - `BOT_TOKEN is not set` — не заполнен `BOT_TOKEN` в `.env`.
 - Ошибки БД — проверьте `DB_*` и доступ к PostgreSQL.
 - `Unauthorized` в API — проверьте `API_KEY` и заголовок `Authorization`.
-
-## Лицензия
-Добавьте выбранную лицензию (например MIT) в файл `LICENSE`.
